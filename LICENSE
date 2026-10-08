@@ -1,0 +1,19 @@
+Gled papers
+Copyright (C) 2003-2026 Matevz Tadel.
+
+gled-auth/ and talks/ are licensed under the Creative Commons Attribution
+4.0 International license, in LICENSE-CC-BY-4.0.txt, except for
+talks/2004-10-07-alice-offline-gm/slides.C.
+
+talks/2004-10-07-alice-offline-gm/slides.C is free software: you can
+redistribute it and/or modify it under the terms of the GNU Lesser General
+Public License as published by the Free Software Foundation, either version
+3 of the License, or (at your option) any later version. It is distributed
+WITHOUT ANY WARRANTY. The GNU Lesser General Public License, version 3, is
+in COPYING.LESSER; it supplements the GNU General Public License, version
+3, in COPYING.
+
+gled-ihscm/ is the author's submitted version of a chapter published by
+Nova Science Publishers, who hold the copyright of the published chapter
+and permit authors to self-archive the submitted version. It is not
+covered by the licenses above; see gled-ihscm/README.md.
